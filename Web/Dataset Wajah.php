@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$base_dir = "/var/www/html"; // Ganti dengan direktori yang ingin Anda jelajahi
+$base_dir = "/var/www/html";
 $current_dir = isset($_GET['dir']) ? $_GET['dir'] : $base_dir;
 
 function displayFolderContents($dir) {

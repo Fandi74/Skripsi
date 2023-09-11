@@ -12,7 +12,8 @@
 
 ## Dokumentasi
 ### Wemos D1 R32
-![image](https://github.com/Fandi74/Skripsi/assets/91959410/11d33ec8-f430-417a-bdcc-6ef43125e084)
+![image](https://github.com/Fandi74/Skripsi/assets/91959410/57cf9b95-63f9-4177-93fe-dcb109d7e2ca)
+
 ### Jetson Nano Dev Kit
 ![image](https://github.com/Fandi74/Skripsi/assets/91959410/bf6f0c05-ce2b-4807-bb74-d5c084b557a3)
 

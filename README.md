@@ -17,5 +17,4 @@
 ### Jetson Nano Dev Kit
 ![image](https://github.com/Fandi74/Skripsi/assets/91959410/bf6f0c05-ce2b-4807-bb74-d5c084b557a3)
 
-### Box Komponen
-![image](https://github.com/Fandi74/Skripsi/assets/91959410/376e85ce-ffdd-4ee1-83bc-0236d1967ae3)
+
